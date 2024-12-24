@@ -1,0 +1,25 @@
+{
+  "short_name": "JKV Robotics",
+  "name": "JKV Robotics Research Lab",
+  "icons": [
+    {
+      "src": "/jvv.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/jvv.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/jvv.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
